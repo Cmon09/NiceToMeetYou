@@ -10,7 +10,7 @@ import time
 
 HOST = "0.0.0.0"
 PORT = 6000
-PASSWORD = "836554ccffb4"
+PASSWORD = "secret123"
 JPEG_QUALITY = 60           # 1~95
 FPS = 8                     # 초당 프레임
 
@@ -129,3 +129,4 @@ def main():
 if __name__ == "__main__":
     print("Server starting...")
     main()
+
