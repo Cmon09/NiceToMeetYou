@@ -9,7 +9,7 @@ import json
 
 SERVER_IP = "192.168.0.20"   # 서버(조작당할 컴퓨터) IP로 바꿔 주세요
 PORT = 6000
-PASSWORD = "836554ccffb4"       # 서버와 동일하게 맞춰야 함
+PASSWORD = "secret123"       # 서버와 동일하게 맞춰야 함
 
 window_name = "Remote Desktop (press q to quit)"
 
@@ -132,3 +132,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
